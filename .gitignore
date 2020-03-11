@@ -111,3 +111,13 @@ tmp/
 temp/
 
 # End of https://www.gitignore.io/api/javascript,node
+
+# Created by https://www.gitignore.io/api/hexo
+# Edit at https://www.gitignore.io/?templates=hexo
+
+### Hexo ###
+db.json
+public/
+.deploy_git/
+
+# End of https://www.gitignore.io/api/hexo
